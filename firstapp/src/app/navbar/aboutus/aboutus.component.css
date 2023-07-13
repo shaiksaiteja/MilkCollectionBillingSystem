@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(45deg , #7a7ea2, #0c6bbd);
+}
+.about{
+    padding-top: 6px;
+    text-align: center;
+    color:antiquewhite;
+ }
+ .content{
+    border:2px dashed  salmon;
+    color: aliceblue;
+ }
+ .img{
+    padding:3px;
+
+    
+ }
+ .il{
+    margin-left: 5px;
+ }
+ article{
+    color: aliceblue;
+    
+ }
